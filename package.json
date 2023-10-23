@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "knex": "node --loader  tsx ./node_modules/.bin/knex",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
